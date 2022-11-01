@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Massachusetts//Student Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Matthew - 2022 Fall UMDAR Classes (as of 11-01-22)
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20220901T093000
+DURATION:PT1H15M
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20221207
+LOCATION:Science & Engr 114            
+STATUS:CONFIRMED
+SUMMARY:CIS 181-01 Lecture (#9806)      
+DESCRIPTION:Class Title: Object-Oriented Prog II\n                              
+ Instructor: Yuchou Chang                                                                 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220904T120000
+DURATION:PT1H50M
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20221207
+LOCATION:Dion 305                      
+STATUS:CONFIRMED
+SUMMARY:CIS 181-01L1 Laboratory (#9807) 
+DESCRIPTION:Class Title: Object-Oriented Prog II\n                              
+ Instructor: Yuchou Chang                                                                 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220902T140000
+DURATION:PT0H50M
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR;UNTIL=20221207
+LOCATION:Library Lecture Hall 207      
+STATUS:CONFIRMED
+SUMMARY:EGR 111-05H Lecture (#9851)     
+DESCRIPTION:Class Title: Intro Engineering & Computing\n                        
+ Instructor: Laura Hanzly                                                                 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220904T080000
+DURATION:PT1H50M
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20221207
+LOCATION:Science & Engr 201            
+STATUS:CONFIRMED
+SUMMARY:EGR 111-05L1 Laboratory (#9857) 
+DESCRIPTION:Class Title: Intro Engineering & Computing\n                        
+ Instructor: Laura Hanzly                                                                 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220901T080000
+DURATION:PT1H15M
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20221207
+LOCATION:Liberal Arts 111              
+STATUS:CONFIRMED
+SUMMARY:ENL 266-05 Lecture (#10135)     
+DESCRIPTION:Class Title: Technical Communication\n                              
+ Instructor: Cameron Ann Sinclaire                                                        
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220905T160000
+DURATION:PT1H30M
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20221207
+LOCATION:Science & Engr 304            
+STATUS:CONFIRMED
+SUMMARY:CHM 161-01L5 Laboratory (#10226)
+DESCRIPTION:Class Title: Intro Applied Chem I\n                                 
+ Instructor: Michael Dave Pogoy Barquilla, Jacob Alexander Kress                          
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220901T140000
+DURATION:PT1H50M
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20221207
+LOCATION:Science & Engr 207            
+STATUS:CONFIRMED
+SUMMARY:MTH 213-03 Lecture (#10258)     
+DESCRIPTION:Class Title: Calc for App Sci & Eng III\n                           
+ Instructor: Biyong Luo                                                                   
+END:VEVENT
+END:VCALENDAR
